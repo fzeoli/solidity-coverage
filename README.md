@@ -41,7 +41,7 @@ truffle run coverage [command-options]
 ### Hardhat
 
 Beginning with v0.7.12, this tool supports Hardhat and runs directly on
-HardhatEVM.
+Hardhat Network.
 
 **Require** the plugin in `hardhat.config.js` ([Hardhat docs][26])
 ```javascript
